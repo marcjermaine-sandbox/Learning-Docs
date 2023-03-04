@@ -4,5 +4,5 @@ In the very first lesson of our Vue.js Fundamentals course, besides of learning 
 
 
 ```js
-<script src="https://unpkg.com/vue@2"></script>
+<script src="https://unpkg.com/vue@next"></script>
 ```
